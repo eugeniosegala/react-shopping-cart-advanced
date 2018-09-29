@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { device } from '../../theme/media';
 
 export const SingleProduct = styled.div`
   border: 1px solid #d4d4d4;
@@ -12,17 +13,21 @@ export const SingleProduct = styled.div`
 export const ProductDetail = styled.div`
   display: flex;
   flex-direction: column;
+  @media ${device.laptop} {
+    background-color: #FFC107;
+  }
 `;
 
 export const ProductName = styled.div`
   text-align: center;
+  padding: 3px;
 `;
 
 export const ProductPrice = styled.div`
   text-align: center;
   font-size: 12px;
   font-wight: bold;
-  padding: 5px;
+  padding: 3px;
 `;
 
 export const ProductButton = styled.div`

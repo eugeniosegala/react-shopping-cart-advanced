@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Example",
+    "price": 89.99,
+    "image": "https://image.ibb.co/kcdsRp/backpack.png"
+  },
+  {
+    "id": 2,
+    "name": "Example",
+    "price": 39.99,
+    "image": "https://image.ibb.co/fDfve9/shoes.png"
+  },
+  {
+    "id": 3,
+    "name": "Example",
+    "price": 9.99,
+    "image": "https://image.ibb.co/jRWOXU/watch.png"
+  },
+  {
+    "id": 4,
+    "name": "Example",
+    "price": 79.99,
+    "image": "https://image.ibb.co/eP3Fe9/Watch.png"
+  },
+  {
+    "id": 5,
+    "name": "Example",
+    "price": 139.99,
+    "image": "https://image.ibb.co/bRpoz9/Shoes.png"
+  },
+  {
+    "id": 6,
+    "name": "Example",
+    "price": 89.99,
+    "image": "https://image.ibb.co/kcdsRp/backpack.png"
+  },
+  {
+    "id": 7,
+    "name": "Example",
+    "price": 39.99,
+    "image": "https://image.ibb.co/fDfve9/shoes.png"
+  },
+  {
+    "id": 8,
+    "name": "Example",
+    "price": 9.99,
+    "image": "https://image.ibb.co/jRWOXU/watch.png"
+  },
+  {
+    "id": 9,
+    "name": "Example",
+    "price": 79.99,
+    "image": "https://image.ibb.co/eP3Fe9/Watch.png"
+  },
+  {
+    "id": 10,
+    "name": "Example",
+    "price": 139.99,
+    "image": "https://image.ibb.co/bRpoz9/Shoes.png"
+  },
+  {
+    "id": 11,
+    "name": "Example",
+    "price": 89.99,
+    "image": "https://image.ibb.co/kcdsRp/backpack.png"
+  },
+  {
+    "id": 12,
+    "name": "Example",
+    "price": 39.99,
+    "image": "https://image.ibb.co/fDfve9/shoes.png"
+  },
+  {
+    "id": 13,
+    "name": "Example",
+    "price": 9.99,
+    "image": "https://image.ibb.co/jRWOXU/watch.png"
+  },
+  {
+    "id": 14,
+    "name": "Example",
+    "price": 79.99,
+    "image": "https://image.ibb.co/eP3Fe9/Watch.png"
+  },
+  {
+    "id": 15,
+    "name": "Example",
+    "price": 139.99,
+    "image": "https://image.ibb.co/bRpoz9/Shoes.png"
+  },
+  {
+    "id": 16,
+    "name": "Example",
+    "price": 89.99,
+    "image": "https://image.ibb.co/kcdsRp/backpack.png"
+  },
+  {
+    "id": 17,
+    "name": "Example",
+    "price": 39.99,
+    "image": "https://image.ibb.co/fDfve9/shoes.png"
+  },
+  {
+    "id": 18,
+    "name": "Example",
+    "price": 9.99,
+    "image": "https://image.ibb.co/jRWOXU/watch.png"
+  },
+  {
+    "id": 19,
+    "name": "Example",
+    "price": 79.99,
+    "image": "https://image.ibb.co/eP3Fe9/Watch.png"
+  },
+  {
+    "id": 20,
+    "name": "Example",
+    "price": 139.99,
+    "image": "https://image.ibb.co/bRpoz9/Shoes.png"
+  },
+  {
+    "id": 21,
+    "name": "Example",
+    "price": 89.99,
+    "image": "https://image.ibb.co/kcdsRp/backpack.png"
+  },
+  {
+    "id": 22,
+    "name": "Example",
+    "price": 39.99,
+    "image": "https://image.ibb.co/fDfve9/shoes.png"
+  },
+  {
+    "id": 23,
+    "name": "Example",
+    "price": 9.99,
+    "image": "https://image.ibb.co/jRWOXU/watch.png"
+  },
+  {
+    "id": 24,
+    "name": "Example",
+    "price": 79.99,
+    "image": "https://image.ibb.co/eP3Fe9/Watch.png"
+  },
+  {
+    "id": 25,
+    "name": "Example",
+    "price": 139.99,
+    "image": "https://image.ibb.co/bRpoz9/Shoes.png"
+  },
+  {
+    "id": 26,
+    "name": "Example",
+    "price": 89.99,
+    "image": "https://image.ibb.co/kcdsRp/backpack.png"
+  },
+  {
+    "id": 27,
+    "name": "Example",
+    "price": 39.99,
+    "image": "https://image.ibb.co/fDfve9/shoes.png"
+  },
+  {
+    "id": 28,
+    "name": "Example",
+    "price": 9.99,
+    "image": "https://image.ibb.co/jRWOXU/watch.png"
+  },
+  {
+    "id": 29,
+    "name": "Example",
+    "price": 79.99,
+    "image": "https://image.ibb.co/eP3Fe9/Watch.png"
+  },
+  {
+    "id": 30,
+    "name": "Example",
+    "price": 139.99,
+    "image": "https://image.ibb.co/bRpoz9/Shoes.png"
+  }
+]
