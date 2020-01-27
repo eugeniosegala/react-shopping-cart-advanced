@@ -33,7 +33,7 @@ const isFavorite = (elm) => {
   if (localStorage.getItem('products') && JSON.parse(localStorage.getItem('products')).find(e => e.id === elm.id)) {
     message = <CartIcon alt="cart" src={Cart} />;
   } else {
-    message = 'Add';
+    message = 'Buy';
   }
   return message;
 };
